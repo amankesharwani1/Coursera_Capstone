@@ -16,7 +16,7 @@ Governments should be highly interested in accurate predictions of the severity 
 
 This project consist of several parts divided in two different notebooks.
 
-## Feature Selection
+## Data and Feature Selection
 
 This first notebook contains all the steps and transformations I performed for the feature selection. You can find the information on the raw data in the following [kaggle page](https://www.kaggle.com/ahmedlahlou/accidents-in-france-from-2005-to-2016). The kaggle datasets contain an extended descriptions of different aspect of the accidents, thus I've selected the most relevant and useful data for my analysis.
 
